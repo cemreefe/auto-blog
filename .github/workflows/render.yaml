@@ -29,7 +29,7 @@ jobs:
         rm -r SimplyMarkdown
     - name: Clone github pages branch and clean its contents, keep sitemap
       run: |
-        git remote set-url origin https://x-access-token:${{ secrets.AUTO_RENDER_PAT }}@github.com/${{GITHUB_REPOSITORY}}.git
+        git remote set-url origin https://x-access-token:${{ secrets.AUTO_RENDER_PAT }}@github.com/$GITHUB_REPOSITORY.git
         git config --global user.name '${{ github.actor }}'
         git config --global user.email '${{ github.actor }}@users.noreply.github.com'
         cd ..
@@ -47,7 +47,7 @@ jobs:
         
     - name: Commit changes
       run: |
-        git remote set-url origin https://x-access-token:${{ secrets.AUTO_RENDER_PAT }}@github.com/${{GITHUB_REPOSITORY}}.git
+        git remote set-url origin https://x-access-token:${{ secrets.AUTO_RENDER_PAT }}@github.com/$GITHUB_REPOSITORY.git
         git config --global user.name '${{ github.actor }}'
         git config --global user.email '${{ github.actor }}@users.noreply.github.com'
         cd ../ghp/${{ github.event.repository.name }}/
