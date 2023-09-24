@@ -35,7 +35,7 @@ jobs:
         cd ..
         mkdir ghp
         cd ghp
-        git clone -b gh-pages https://github.com/${{ github.actor }}/${{ github.event.repository.name }}
+        git clone -b gh-pages https://github.com/${{ github.actor }}/${{ github.event.repository.name }}.git
         cd ${{ github.event.repository.name }}
         git rm -r '*' 
         git reset sitemap.xml || echo 
