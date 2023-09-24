@@ -3,7 +3,7 @@ name: Render with SimplyMarkdown
 on:
   push:
     branches: 
-    - master
+    - main
 
 jobs:
   run_script:
