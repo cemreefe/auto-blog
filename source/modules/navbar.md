@@ -2,4 +2,4 @@
 
 ### By Marcus Applebee
 
-[Home](index) [Archive](archive) [About](about)
+[Home](/index) [Archive](/archive) [About](/about)
