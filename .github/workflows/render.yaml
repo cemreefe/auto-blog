@@ -47,6 +47,9 @@ jobs:
         
     - name: Commit changes
       run: |
+        git remote set-url origin https://x-access-token:${{ secrets.AUTO_RENDER_PAT }}@github.com/$GITHUB_REPOSITORY
+        git config --global user.name '${{ github.actor }}'
+        git config --global user.email '${{ github.actor }}@users.noreply.github.com'
         cd ../ghp/${{ github.event.repository.name }}/
         git add -A 
         git diff-index --quiet HEAD || git commit -m "Rendered by SimplyMarkdown - ${{ github.event.head_commit.message }}" && git push    
