@@ -29,9 +29,9 @@ jobs:
         rm -r SimplyMarkdown
     - name: Clone github pages branch and clean its contents, keep sitemap
       run: |
-        git remote set-url origin https://x-access-token:${{ secrets.AUTO_RENDER_PAT }}@github.com/$GITHUB_REPOSITORY
         git config --global user.name '${{ github.actor }}'
         git config --global user.email '${{ github.actor }}@users.noreply.github.com'
+        git remote set-url origin https://x-access-token:${{ secrets.AUTO_RENDER_PAT }}@github.com/$GITHUB_REPOSITORY
         cd ..
         mkdir ghp
         cd ghp
