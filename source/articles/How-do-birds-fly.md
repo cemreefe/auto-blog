@@ -1,9 +1,5 @@
 # How Do Birds Fly?
 
-*By Marcus Applebee | Date*
-
-![Birds flying](image-url)
-
 Birds are nature's aerial acrobats, capable of soaring through the skies with grace and ease. But have you ever wondered how these magnificent creatures defy gravity and take to the air? In this article, we will explore the fascinating mechanics behind bird flight and unravel the secrets of their airborne prowess.
 
 ## Lift, Thrust, and Drag

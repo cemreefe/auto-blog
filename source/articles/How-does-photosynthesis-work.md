@@ -1,8 +1,5 @@
 # **Understanding the Marvels of Photosynthesis: Unraveling the Science Behind Nature's Lifeline**
 
-
-*By Marcus Applebee, Science Correspondent*
-
 **[CITY NAME], [DATE]** - Have you ever wondered how plants harness the energy of the sun to produce their own food? Or how Earth's atmosphere is enriched with life-sustaining oxygen? The answer lies in the remarkable process of photosynthesis. In this article, we will delve into the intricate workings of this natural phenomenon, breaking it down into digestible parts to unveil the secrets behind nature's lifeline.
 
 **1. Introducing Photosynthesis: A Brief Overview**

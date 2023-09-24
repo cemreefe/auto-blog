@@ -1,6 +1,6 @@
 # The Benefits of Regular Exercise: Why It's Essential for Your Well-being
 
-**[City Name], [Date]** - It's a question that many of us ask ourselves: Why should I exercise regularly? With busy schedules and the demands of daily life, finding time to engage in physical activity may seem like a daunting task. However, the advantages of regular exercise go far beyond simply staying fit. In this article, we will explore the multiple benefits of regular exercise and why it is essential for your overall well-being.
+It's a question that many of us ask ourselves: Why should I exercise regularly? With busy schedules and the demands of daily life, finding time to engage in physical activity may seem like a daunting task. However, the advantages of regular exercise go far beyond simply staying fit. In this article, we will explore the multiple benefits of regular exercise and why it is essential for your overall well-being.
 
 ## Physical Health
 

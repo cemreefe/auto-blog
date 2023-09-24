@@ -1,9 +1,5 @@
 # **Why do Dogs Wag their Tails? Unraveling the Mystery Behind a Common Canine Behavior**
 
-*By Marcus Applebee*
-
-*September 20, 2022*
-
 You've probably seen it countless times - that joyful, back-and-forth movement of a dog's tail that instantly brings a smile to your face. But have you ever wondered why dogs wag their tails? Is it simply a sign of happiness, or is there more to this tail-wagging behavior? Today, we'll delve into the fascinating world of dogs and discover the reasons behind their tail wagging.
 
 ## **Tail Wagging: A Multifaceted Communication Tool**

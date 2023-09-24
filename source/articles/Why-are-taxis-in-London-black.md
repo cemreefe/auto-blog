@@ -1,7 +1,5 @@
 # The Fascinating History Behind London's Black Taxis
 
-*By Marcus Applebee*
-
 London is not only famous for its iconic landmarks and bustling streets but also for its distinct black taxis that roam the city. Have you ever wondered why taxis in London are predominantly black? Let's take a closer look at the history behind this unique tradition.
 
 ## The Origin of London's Black Taxis

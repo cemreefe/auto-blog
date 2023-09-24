@@ -1,15 +1,5 @@
 # Training Your Brain for a Positive Outlook: Strategies and Tips
 
-*by Marcus Applebee*
-
-*Date: [Current Date]*
-
-*Word Count: [Word Count]*
-
-*Image: [Image Caption]*
-
-*[Image Source]*
-
 In today's fast-paced and highly demanding world, maintaining a positive outlook can be a challenging task. However, with a little effort and a proactive approach, it is possible to train your brain to be more positive. In this article, we will explore various strategies and techniques that can help you develop a positive mindset and boost your overall well-being.
 
 ## Understanding the Power of Positivity

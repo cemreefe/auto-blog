@@ -1,11 +1,5 @@
 # The Color of Air: Exploring the Invisible Intricacy
 
-*Date: [Current Date]*
-
-*By: Marcus Applebee*
-
----
-
 Have you ever wondered what color air is? It's a seemingly simple question, yet one that often sparks curiosity and intrigue. To unravel this enigma, we must embark on a fascinating journey into the world of science and perception. Join me as we delve into the intricacies of understanding the color of air.
 
 ## Defining Color Perception

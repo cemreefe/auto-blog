@@ -1,7 +1,5 @@
 # Tips and Techniques to Improve Concentration
 
-*By Marcus Applebee*
-
 Concentration plays a vital role in our ability to focus, retain information, and complete tasks effectively. However, with an increasingly fast-paced and distracting world, maintaining a high level of concentration can be challenging for many individuals. If you find yourself struggling to stay focused or wish to enhance your concentration abilities, here are some tips and techniques to help you improve:
 
 ## 1. Minimize distractions:

@@ -1,7 +1,5 @@
 # Understanding the Role of a Lieutenant: Unveiling the Keys to Leadership in the Military
 
-*Marcus Applebee | April 5, 2023*
-
 Have you ever wondered what it means to hold the title of "Lieutenant"? This military rank carries a significant level of authority and responsibility, but understanding its intricacies may not be so straightforward for those unfamiliar with the military hierarchy. In this article, we will explore the role of a Lieutenant, shedding light on their responsibilities, qualifications, and career progression.
 
 ## The Basics: Definition and Rank

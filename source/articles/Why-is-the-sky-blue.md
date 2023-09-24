@@ -1,7 +1,5 @@
 # **Why Is the Sky Blue? The Scientific Explanation**
 
-*By Marcus Applebee | Science Correspondent*
-
 Every day, we look up at the sky and see a beautiful shade of blue stretching as far as the eye can see. But have you ever wondered why the sky is blue? In this article, we'll delve into the fascinating science behind this phenomenon and uncover the answer to this age-old question.
 
 ## **1. Introduction to Light and Scattering**

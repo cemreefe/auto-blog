@@ -1,9 +1,5 @@
 # The Fascinating History Behind the Iconic Yellow Taxis
 
-*By Marcus Applebee*
-
-*February 15, 2022*
-
 Have you ever wondered why taxis all over the world, especially in the United States, are predominantly yellow in color? The bright, eye-catching hue has become synonymous with these iconic vehicles, creating a sense of familiarity and reliability for passengers. Join us as we delve into the intriguing history behind the choice of the yellow color for taxis.
 
 ## A Bright Beginning
