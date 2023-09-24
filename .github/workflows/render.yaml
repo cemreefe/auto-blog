@@ -23,7 +23,7 @@ jobs:
     - name: Run SimplyMarkdown
       run: |
         cd SimplyMarkdown
-        python3 render.py -i ../source -o ../output --title "All Your Questions - Marcus A." --favicon 🍀
+        python3 render.py -i ../source -o ../output --title "All Your Questions - Marcus A." --favicon 🍀 --theme themes/custom-serif.css
     - name: Cleanup repo
       run: |
         rm -r SimplyMarkdown
