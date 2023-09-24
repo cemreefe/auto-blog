@@ -1,3 +1,2 @@
-# Golbin Web
-AI generated content blog
-
+# Web
+Something something
