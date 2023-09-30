@@ -256,3 +256,11 @@
 * {
     font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif; 
 }
+
+body {
+    color: #686868;
+}
+
+.previewHref p {
+    color: #686868;
+}
