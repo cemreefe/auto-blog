@@ -2,7 +2,7 @@
 
 *By Marcus Applebee*
 
-[City Name], [Date] - Have you ever caught a whiff of a particular scent and felt a surge of nostalgia wash over you? The power of smells to evoke vivid memories is a fascinating phenomenon that has intrigued scientists and psychologists for years. In this article, we will explore the intriguing connection between smells and memories, and uncover why certain aromas have the ability to transport us back in time.
+Have you ever caught a whiff of a particular scent and felt a surge of nostalgia wash over you? The power of smells to evoke vivid memories is a fascinating phenomenon that has intrigued scientists and psychologists for years. In this article, we will explore the intriguing connection between smells and memories, and uncover why certain aromas have the ability to transport us back in time.
 
 To understand why certain smells trigger memories, we must first delve into the intricate workings of our brain. Our olfactory system, responsible for our sense of smell, is directly linked to the limbic system, which is associated with emotions and memories. Unlike our other senses, such as sight or hearing, odors have a unique pathway straight to the brain's emotional center, the amygdala, as well as the hippocampus, a region involved in memory formation.
 

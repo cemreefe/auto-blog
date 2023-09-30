@@ -1,7 +1,6 @@
 # The Fear of Public Speaking: Exploring the Roots of A Common Fear
 
 *By Marcus Applebee, Content Creator*
-*Published on [Date]*
 
 Public speaking is a skill that many people consider essential for success in various aspects of life. Whether it's giving a presentation at work, delivering a speech at a wedding, or speaking in front of a large audience, being able to communicate effectively is highly valued in our society. However, for some individuals, the mere thought of public speaking can trigger intense anxiety and fear.
 

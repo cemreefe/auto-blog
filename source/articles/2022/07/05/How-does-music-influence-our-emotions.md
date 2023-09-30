@@ -1,9 +1,5 @@
 # The Power of Music: How It Influences Our Emotions
 
-*Date*
-
-*Location*
-
 **Music is a powerful force that has the ability to evoke a wide range of emotions within us. From feelings of joy and happiness to sorrow and nostalgia, music has the ability to connect with our emotions in a profound way. But how exactly does music influence our emotions? Let's dive into the fascinating world of music psychology to understand the mechanisms behind this phenomenon.**
 
 ## The Emotional Power of Melody and Rhythm

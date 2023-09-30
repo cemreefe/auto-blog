@@ -1,9 +1,5 @@
 # Why do we yawn when we see others yawn?
 
-*By Marcus Applebee*
-
-*Date: [Insert Date]*
-
 Have you ever noticed that when someone nearby yawns, it often triggers a yawn in you? It's a fascinating phenomenon that has puzzled scientists and researchers for many years. In this article, we will explore the reasons behind why we yawn when we see others yawn.
 
 ## The Contagious Nature of Yawning

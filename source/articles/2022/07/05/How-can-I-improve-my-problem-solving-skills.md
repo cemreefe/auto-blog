@@ -2,9 +2,7 @@
 
 *by Marcus Applebee*
 
-*Published on [Date]*
-
-[City, State] - Problem-solving skills are essential for success in various aspects of life, from personal challenges to professional endeavors. Whether you're a student, professional, or simply looking to enhance your abilities, there are several proven strategies you can employ to improve your problem-solving skills. In this comprehensive guide, we will explore various techniques and approaches that can help you become a more effective problem solver.
+Problem-solving skills are essential for success in various aspects of life, from personal challenges to professional endeavors. Whether you're a student, professional, or simply looking to enhance your abilities, there are several proven strategies you can employ to improve your problem-solving skills. In this comprehensive guide, we will explore various techniques and approaches that can help you become a more effective problem solver.
 
 ## Understanding Problem-Solving
 

@@ -2,9 +2,7 @@
 
 *By Marcus Applebee, Content Creator*
 
-[INSERT DATE]
-
-[INSERT LOCATION] - Leadership is an essential skill in both professional and personal lives. Whether you're managing a team at work, leading a community initiative, or even taking charge within your own family, the qualities of an effective leader can significantly impact the success of a group.
+Leadership is an essential skill in both professional and personal lives. Whether you're managing a team at work, leading a community initiative, or even taking charge within your own family, the qualities of an effective leader can significantly impact the success of a group.
 
 ## **Understanding Effective Leadership**
 

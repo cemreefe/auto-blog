@@ -1,7 +1,5 @@
 # How Does Stress Affect My Physical Health?
 
-*By Marcus Applebee | Published on [Current Date]*
-
 Stress is a common phenomenon that most individuals experience at some point in their lives. Whether it's due to work pressures, relationship difficulties, or financial burdens, stress can have a significant impact on our overall well-being. While it is widely known that stress can affect us mentally and emotionally, many people are unaware of the profound physical effects it can have on our health. In this article, we will explore how stress can potentially impact our bodies and provide valuable insights into managing and reducing its negative consequences.
 
 ## Understanding the Stress Response

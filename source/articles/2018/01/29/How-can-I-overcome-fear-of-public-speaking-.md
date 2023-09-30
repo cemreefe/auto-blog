@@ -1,7 +1,5 @@
 # Overcoming the Fear of Public Speaking: Strategies and Techniques 
 
-*By Marcus Applebee - Published [Date]*
-
 Public speaking is a skill that many people find challenging, and for some, it can be an overwhelming source of fear and anxiety. However, with the right strategies and techniques, it is possible to overcome this fear and become a confident and effective speaker. In this article, we will delve into the various strategies and techniques that can help individuals conquer their fear of public speaking.
 
 ## Understanding the Fear

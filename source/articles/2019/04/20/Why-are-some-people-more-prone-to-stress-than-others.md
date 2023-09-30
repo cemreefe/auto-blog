@@ -2,8 +2,6 @@
 
 *By Marcus Applebee*
 
-*[Date]*
-
 Stress is an inevitable part of life, and each person responds to stressful situations differently. While some individuals may remain calm, others may feel overwhelmed, anxious, or even experience physical symptoms of stress. But why do some people seem to be more prone to stress than others? In this article, we will explore the factors that contribute to individual differences in stress levels and discuss some possible explanations for why some people may be more susceptible to stress.
 
 ## Genetic Predisposition

@@ -1,7 +1,5 @@
 # How Does Caffeine Affect Sleep? Unveiling the Relationship Between Your Daily Brew and Restful Nights
 
-*By Marcus Applebee, Published on [Insert Date]*
-
 ![Caffeine and Sleep](https://images.unsplash.com/photo-1555646823-a166aba35e68)
 
 Coffee, tea, energy drinks - these beverages have become a staple in many people's daily routine. With their ability to provide a quick burst of energy, they are often relied upon to keep us awake and alert. However, have you ever wondered what impact these caffeinated beverages might have on our precious sleep?

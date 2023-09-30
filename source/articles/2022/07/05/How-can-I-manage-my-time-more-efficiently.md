@@ -2,8 +2,6 @@
 
 *By Marcus Applebee*
 
-*Date*
-
 Effective time management is a crucial skill that plays a significant role in our personal and professional lives. With the ever-increasing demands and distractions of modern society, finding ways to manage our time more efficiently has become a necessity. If you've ever wondered how to better organize your day and increase your productivity, read on to discover some practical strategies that can help you manage your time effectively.
 
 ## **1. Set Clear Goals and Prioritize Tasks**
