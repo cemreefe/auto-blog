@@ -4,4 +4,4 @@
 
 ### Son Makaleler
 
-% articles:detaylı
+% articles:detailed
