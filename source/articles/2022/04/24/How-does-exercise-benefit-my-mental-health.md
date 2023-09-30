@@ -2,8 +2,6 @@
 
 *By Marcus Applebee*
 
-*Date: [Date]*
-
 Exercise has long been known for its numerous physical benefits, such as weight loss, increased strength, and improved cardiovascular health. But did you know that exercise also has a profound impact on your mental health? In this article, we will delve into the ways in which exercise can benefit your mental well-being.
 
 ## Reduces Stress and Anxiety

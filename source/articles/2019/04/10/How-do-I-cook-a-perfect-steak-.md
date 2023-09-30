@@ -1,7 +1,5 @@
 # The Art of Cooking a Perfect Steak: A Step-by-Step Guide
 
-*(date)*
-
 Cooking a perfect steak is an art that many aspiring home chefs strive to master. The tantalizing aroma, mouthwatering texture, and savory flavor of a well-prepared steak can elevate any meal to new heights. But how exactly do you achieve that culinary perfection? In this comprehensive guide, we will take you through the step-by-step process of cooking a perfect steak that would rival any steakhouse.
 
 ## Choose the Right Cut

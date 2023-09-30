@@ -2,7 +2,7 @@
 
 ## Unraveling the Mystery of Lunar Phases
 
-*Date, Location* - Have you ever looked up into the night sky and wondered why the moon appears to change its shape? If so, you're not alone. The changing appearance of the moon has fascinated humanity for centuries. Today, we will dive into the science behind this intriguing phenomenon and unravel the mystery of lunar phases.
+Have you ever looked up into the night sky and wondered why the moon appears to change its shape? If so, you're not alone. The changing appearance of the moon has fascinated humanity for centuries. Today, we will dive into the science behind this intriguing phenomenon and unravel the mystery of lunar phases.
 
 ## The Phases of the Moon
 

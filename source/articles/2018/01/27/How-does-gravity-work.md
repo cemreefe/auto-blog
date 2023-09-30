@@ -1,9 +1,5 @@
 # How Does Gravity Work?
 
-*By Marcus Applebee | Updated on [Insert Date]*
-
-Image Source: [Unsplash](Unsplash Link)
-
 **Gravity** is a fundamental force of nature that influences every object in the universe. It is responsible for keeping planets in orbit, objects grounded on Earth, and even determining the shape of galaxies. But how does gravity work?
 
 ## Understanding Gravity

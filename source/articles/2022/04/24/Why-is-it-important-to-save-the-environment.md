@@ -1,7 +1,5 @@
 # Why is it Important to Save the Environment?
 
-![environment](https://images.unsplash.com/photo-1571790749449-572e483b0b1a)
-
 In recent years, there has been a growing awareness about the importance of saving the environment. With increasing concerns about climate change, pollution, deforestation, and the loss of biodiversity, it has become imperative for individuals, communities, and governments to prioritize environmental conservation efforts. But why exactly is it so crucial to save the environment? Let's delve deeper into this question and explore the reasons why environmental preservation is of utmost importance.
 
 ## Protecting Future Generations
