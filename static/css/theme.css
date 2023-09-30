@@ -1,4 +1,4 @@
-/* Reset default browser styles */
+/* START CLASSIC THEME */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -240,3 +240,19 @@
     font-family: monospace;
     margin-bottom: 1em;
   }
+ 
+/* END CLASSIC THEME */
+
+/* ADDITIONAL CSS */
+
+.postPreview {
+    margin-bottom: 3em;
+}
+
+.previewDate {
+    margin-bottom: 1em;
+}
+
+* {
+    font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif; 
+}
