@@ -23,8 +23,9 @@
   }
   
   a {
-    color: #0084ff;
+    color: #3f87cb;
     text-decoration: none;
+    /* border-bottom: 1px solid black; */
   }
   
   nav a {
@@ -246,11 +247,14 @@
 /* ADDITIONAL CSS */
 
 .postPreview {
-    margin-bottom: 3em;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    border-top: 1px solid #aaaaaa;
 }
 
 .previewDate {
     margin-bottom: 1em;
+    margin-top: 1em;
 }
 
 * {
