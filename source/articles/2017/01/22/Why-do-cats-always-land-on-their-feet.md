@@ -1,6 +1,6 @@
 # The Physics Behind Cats' Remarkable Ability to Land on Their Feet
 
-*Date, Location -* Cats have long held a reputation for their graceful and agile movements. One of the most intriguing and often asked questions about our feline companions is: *Why do cats always seem to land on their feet?* Today, we will unravel the mysterious and fascinating physics behind this incredible cat behavior.
+ Cats have long held a reputation for their graceful and agile movements. One of the most intriguing and often asked questions about our feline companions is: *Why do cats always seem to land on their feet?* Today, we will unravel the mysterious and fascinating physics behind this incredible cat behavior.
 
 ## Anatomy and Reflexes
 

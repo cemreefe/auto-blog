@@ -1,6 +1,6 @@
 # Understanding the Fear of Public Speaking: Causes and Solutions
 
-**[City], [Date]** - Public speaking is a common fear that affects many people, often causing anxiety and stress. Whether it's giving a presentation at work, speaking at a conference, or even delivering a toast at a wedding, the fear of public speaking can be paralyzing. In this article, we will explore why some individuals have a fear of public speaking and provide effective strategies to help them overcome it.
+Public speaking is a common fear that affects many people, often causing anxiety and stress. Whether it's giving a presentation at work, speaking at a conference, or even delivering a toast at a wedding, the fear of public speaking can be paralyzing. In this article, we will explore why some individuals have a fear of public speaking and provide effective strategies to help them overcome it.
 
 ## The Fear of Public Speaking: A Common Phenomenon
 

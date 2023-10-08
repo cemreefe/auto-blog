@@ -2,7 +2,7 @@
 
 *By Marcus Applebee*
 
-**[Location], [Date]**
+
 
 Plants are truly remarkable organisms that have the ability to convert sunlight into energy through a process called photosynthesis. This complex process allows plants to harness the power of the sun and convert it into the vital fuel they need to grow, reproduce, and thrive. Let's take a closer look at how plants accomplish this fascinating feat.
 

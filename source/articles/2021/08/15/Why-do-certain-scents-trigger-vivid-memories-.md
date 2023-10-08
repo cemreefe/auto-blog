@@ -1,7 +1,7 @@
 # Why do certain scents trigger vivid memories?
 
 **By Marcus Applebee**  
-*Published on [Date]*
+
 
 Have you ever caught a whiff of a familiar scent and suddenly been transported back in time to a specific moment or place? Perhaps the smell of freshly baked bread reminds you of your grandmother's kitchen, or the scent of sunscreen takes you back to that memorable summer vacation. The phenomenon of scents triggering vivid memories is a fascinating area of study that has intrigued scientists and psychologists for decades. In this article, we will explore the reasons why certain scents have the power to evoke such strong, nostalgic memories.
 

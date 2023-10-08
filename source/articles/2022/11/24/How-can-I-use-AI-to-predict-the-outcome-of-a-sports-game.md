@@ -2,7 +2,7 @@
 
 *By Marcus Applebee*
 
-*(Date)*
+
 
 Artificial Intelligence (AI) has become an integral part of various industries, revolutionizing the way we approach complex problems. Applying AI to sports analysis and prediction has gained significant attention, offering sports enthusiasts and bettors the ability to make more informed decisions. So, how can AI be used to predict the outcome of a sports game? Let's delve into the process, techniques, and potential outcomes.
 

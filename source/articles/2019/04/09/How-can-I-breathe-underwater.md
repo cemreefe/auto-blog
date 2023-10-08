@@ -48,7 +48,6 @@ So, let your dreams of breathing underwater permeate your imagination and who kn
 
 *Disclaimer: The information provided in this article is for informational purposes only. It is essential to consult professionals and follow safety guidelines before engaging in any underwater activities.*
 
----
 Sources:
 
 - [ScienceDirect - Liquid Breathing](https://www.sciencedirect.com/science/article/pii/S1110982315001899)

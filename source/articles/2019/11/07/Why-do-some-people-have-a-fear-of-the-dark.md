@@ -1,10 +1,10 @@
 # Why Do Some People Have a Fear of the Dark?
 
-*By Marcus Applebee | Published on [Date]*
+
 
 ![Fear of the Dark](image-url)
 
-**[Location]** – The fear of the dark, also known as nyctophobia, is a common and intriguing phenomenon that affects people of all ages across the globe. In this article, we will explore the reasons behind why some individuals experience this fear and what psychological and evolutionary factors may contribute to its development.
+**[The fear of the dark, also known as nyctophobia, is a common and intriguing phenomenon that affects people of all ages across the globe. In this article, we will explore the reasons behind why some individuals experience this fear and what psychological and evolutionary factors may contribute to its development.
 
 **Introduction**
 

@@ -1,7 +1,7 @@
 # How to Improve Your Memory in Just One Week
 
 **By Marcus Applebee**  
-*Published on [Date]*
+
 
 Have you ever wished you could improve your memory quickly and effectively? If so, you're not alone. Many people are looking for ways to boost their memory skills in a short period of time. While enhancing your memory in just one week may seem ambitious, there are practical techniques and strategies you can implement to maximize your memory potential. In this article, we will explore some actionable steps that can help you improve your memory in just one week.
 

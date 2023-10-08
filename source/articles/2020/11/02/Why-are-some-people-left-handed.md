@@ -4,7 +4,7 @@
 
 *Image Source: Unsplash*
 
-Date: [DATE]
+
 
 [Location]
 

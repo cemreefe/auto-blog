@@ -1,6 +1,6 @@
 # **Unlocking the Secrets of Time Travel: A Journey into Possibility**
 
-Date: [Insert Date]
+
 Location: [Insert Location]
 
 *By: Marcus Applebee*
@@ -39,7 +39,6 @@ Time travel continues to capture our collective imagination, offering a gateway 
 
 [Insert Closing Statement]
 
----
 ###### **References**
 1. [Insert Reference]
 2. [Insert Reference]

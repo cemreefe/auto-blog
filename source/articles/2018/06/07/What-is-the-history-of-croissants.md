@@ -1,7 +1,7 @@
 # The History of Croissants: From Vienna to France
 
 *By Marcus Applebee*  
-*Published on [Date]*
+
 
 Croissants are a beloved pastry enjoyed by people all around the world. The buttery, flaky goodness of a freshly baked croissant is hard to resist. But have you ever wondered about the history behind this delectable treat? Join us as we delve into the fascinating story of croissants, from their origins in Austria to their rise to popularity in France.
 

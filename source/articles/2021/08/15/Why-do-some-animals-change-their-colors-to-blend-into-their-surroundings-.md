@@ -1,8 +1,8 @@
 # The Science Behind Camouflaging: Animals Changing Colors to Blend into Their Surroundings
 
-*By Marcus Applebee | [Date]*
 
-*Location*
+
+*
 
 Image Source: [Pexels](https://www.pexels.com/photo/photo-of-chameleon-2526116/)
 

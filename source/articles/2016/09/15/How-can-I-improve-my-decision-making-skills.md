@@ -2,9 +2,8 @@
 
 *By Marcus Applebee, Content Creator*
 
-*Date: [Current Date]*
 
----
+
 
 In today's fast-paced world, making effective decisions is crucial both in our personal and professional lives. Whether it's choosing which job opportunity to pursue, making financial investments, or deciding what to have for dinner, our decision-making skills play a critical role in shaping the outcomes we experience. If you're eager to enhance your decision-making abilities, fear not! In this article, we will explore several strategies that can help you improve your decision-making skills and make better choices.
 

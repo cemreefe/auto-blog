@@ -2,7 +2,7 @@
 
 *By Marcus Applebee*
 
-*Date: [Insert Date]*
+
 
 Sleepwalking, also known as somnambulism, is a sleep disorder that affects approximately 1-15% of the population. It is characterized by episodes of walking or performing complex activities while still asleep. But what causes people to sleepwalk? Let's delve into the topic to understand the underlying factors.
 

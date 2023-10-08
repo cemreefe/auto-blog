@@ -1,7 +1,5 @@
 # Exploring the Fascinating World of Dreams: Unraveling the Mystery of Why We Dream
 
-#### Marcus Applebee | Date | Location
-
 Have you ever found yourself deeply immersed in a dream, filled with vivid scenes, emotions, and experiences that seem almost as real as waking life? Dreams have fascinated humanity for centuries, prompting countless theories and inquiries into why we have them. In this article, we will delve into the vast realm of dreams, dissect their purpose, and shed light on this intriguing and enigmatic phenomenon.
 
 ## What are Dreams?

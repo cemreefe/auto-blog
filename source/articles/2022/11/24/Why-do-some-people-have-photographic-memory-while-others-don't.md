@@ -2,10 +2,6 @@
 
 *By Marcus Applebee*  
 
-*Date:* September 23, 2023
-
-*Location:* New York City, NY
-
 In a world where memory plays a crucial role in our daily lives, some individuals possess an extraordinary ability known as photographic memory. Also referred to as eidetic memory, this rare gift allows certain people to remember visual information with astonishing accuracy and detail. But why do some people have this exceptional ability while others do not? Let's dive into the fascinating world of memory and explore some of the factors that contribute to the existence of photographic memory.
 
 ## Understanding Photographic Memory

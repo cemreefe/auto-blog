@@ -2,7 +2,7 @@
 
 *By Marcus Applebee*
 
-*Date: [Current Date]*
+
 
 Near-death experiences (NDEs) have always fascinated and intrigued both scientists and the general public alike. These unique experiences, often reported by individuals who have come close to death, involve a wide range of phenomena such as out-of-body experiences, vivid hallucinations, feelings of peace and serenity, and encounters with deceased loved ones. But what exactly causes these experiences? In this article, we will explore the various theories and explanations behind near-death experiences.
 

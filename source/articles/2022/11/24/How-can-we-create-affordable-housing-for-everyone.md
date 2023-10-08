@@ -1,8 +1,8 @@
 # Creating Affordable Housing: A Shared Responsibility
 
-*By Marcus Applebee - Published on [Date]*
 
-*Location: [City, Country]*
+
+*
 
 **Introduction**
 

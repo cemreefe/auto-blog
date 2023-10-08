@@ -1,7 +1,7 @@
 # **Unveiling the Secrets of Butterfly Camouflage**
 
 *By Marcus Applebee, SEO Content Creator*  
-*[Your Publication Name]* – [Date]*
+
 
 ![Butterfly Camouflage](image-link)
 

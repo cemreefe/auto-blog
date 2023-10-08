@@ -2,9 +2,9 @@
 
 *By Marcus Applebee*
 
-*Date: October 12, 20XX*
 
-*Location: New York City*
+
+*
 
 Pain tolerance refers to an individual's ability to endure pain or discomfort. It is a complex and fascinating phenomenon that varies significantly from person to person. Have you ever wondered why certain individuals seem to have a higher pain tolerance than others? In this article, we'll delve into the factors and potential explanations that contribute to varying pain thresholds among individuals.
 

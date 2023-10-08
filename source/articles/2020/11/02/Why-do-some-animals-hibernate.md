@@ -1,7 +1,7 @@
 # Why do Some Animals Hibernate?
 
 *By Marcus Applebee*  
-*Published on [Date]*
+
 
 ![Hibernating Bear](image_url)
 

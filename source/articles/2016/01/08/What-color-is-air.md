@@ -32,6 +32,5 @@ In conclusion, air is considered colorless due to its inability to selectively a
 
 Next time you take a deep breath of fresh air, remember its transparent nature and the hidden wonders that lie within the unseen depths of the atmosphere.
 
----
 
 Remember to always stay curious! If you have any more questions or scientific wonders you'd like to explore, feel free to reach out. Keep seeking knowledge, and let your imagination soar!

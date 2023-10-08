@@ -2,9 +2,8 @@
 
 *By Marcus Applebee*
 
-*Date: [Insert Date]*
 
----
+
 
 Birds are one of nature's most fascinating creatures, known for their impressive flying abilities. However, one behavior that often leaves people awe-inspired is the V-formation flight pattern commonly observed in migratory birds. These birds fly in a distinctive V-shaped formation, with one bird leading the way and the rest following closely behind. But what is the reason behind this fascinating phenomenon? Let's delve into the world of avian science to explore the answer to the question: Why do birds fly in V-formation?
 

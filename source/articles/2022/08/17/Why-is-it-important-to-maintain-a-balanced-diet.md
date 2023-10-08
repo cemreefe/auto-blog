@@ -2,7 +2,7 @@
 
 *by Marcus Applebee, Content Creator*
 
-*City, Date*
+
 
 In today's fast-paced world, it can be challenging to find the time and motivation to prioritize our health. However, maintaining a balanced diet is a vital aspect of overall well-being. A balanced diet ensures that we receive all the necessary nutrients, vitamins, and minerals that our bodies need to function optimally. Let's explore in detail why it is important to maintain a balanced diet.
 

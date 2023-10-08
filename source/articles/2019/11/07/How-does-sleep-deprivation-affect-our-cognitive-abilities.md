@@ -2,7 +2,7 @@
 
 *By Marcus Applebee, Content Creator*
 
-(*City Name* - *Date*)
+)
 
 Sleep is a fundamental aspect of our daily lives, essential for our overall well-being. However, many people often underestimate the importance of a good night's sleep. Sleep deprivation, whether due to work demands, personal obligations, or other factors, can have a significant impact on our cognitive abilities. In this article, we will delve into the effects of sleep deprivation and explore the science behind its impact on our mental capacities.
 

@@ -6,7 +6,7 @@
 ![Cats and their nine lives](image-link)
 
 
-*Date | Location* - For centuries, cats have been associated with the mystical notion of having nine lives. This fascinating belief has captured the imagination of many, leaving us to ponder the question: Why do cats have nine lives? In this article, we will embark on a journey to uncover the origins of this ancient myth and unravel the truth behind it.
+For centuries, cats have been associated with the mystical notion of having nine lives. This fascinating belief has captured the imagination of many, leaving us to ponder the question: Why do cats have nine lives? In this article, we will embark on a journey to uncover the origins of this ancient myth and unravel the truth behind it.
 
 
 ## Origins of the Myth

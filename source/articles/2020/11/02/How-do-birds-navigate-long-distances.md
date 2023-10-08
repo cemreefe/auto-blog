@@ -1,6 +1,6 @@
 # A Closer Look at How Birds Navigate Long Distances
 
-Date: [Current Date]
+
 
 Location: [Your Area]
 

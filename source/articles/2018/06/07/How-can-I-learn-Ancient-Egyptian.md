@@ -2,7 +2,7 @@
 
 *By Marcus Applebee*
 
-*Published on [Date]*
+
 
 Ancient Egypt has captivated the imaginations of people around the world for centuries. The pyramids, pharaohs, and hieroglyphic script have all contributed to the mystique of this ancient civilization. If you've ever wondered how to learn Ancient Egyptian, you're in the right place. In this article, we will explore the steps you can take to begin unraveling the secrets of this fascinating language.
 

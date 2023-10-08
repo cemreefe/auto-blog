@@ -2,9 +2,9 @@
 
 *By Marcus Applebee*
 
-*Date: [Insert Date]*
 
-*Location: [Insert Location]*
+
+*
 
 Quality sleep is essential for maintaining good physical and mental health. However, many individuals struggle with sleep issues, such as insomnia or poor sleep quality. In recent years, meditation has gained popularity as a complementary approach to improve sleep quality naturally. In this article, we will explore how meditation can positively impact sleep and discuss the various mechanisms through which it achieves this.
 

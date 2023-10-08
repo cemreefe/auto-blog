@@ -2,7 +2,7 @@
 
 *By Marcus Applebee, Content Creator*
 
-**[Location], [Date]** - Water, the essential and life-sustaining element, can evoke a wide range of emotions in individuals. While for some it may be a source of joy and relaxation, others may develop an irrational fear or phobia known as aquaphobia or hydrophobia. In this article, we will delve into the reasons behind the development of a fear of water and explore some potential factors contributing to this common yet complex phobia.
+Water, the essential and life-sustaining element, can evoke a wide range of emotions in individuals. While for some it may be a source of joy and relaxation, others may develop an irrational fear or phobia known as aquaphobia or hydrophobia. In this article, we will delve into the reasons behind the development of a fear of water and explore some potential factors contributing to this common yet complex phobia.
 
 ## Understanding Aquaphobia:
 

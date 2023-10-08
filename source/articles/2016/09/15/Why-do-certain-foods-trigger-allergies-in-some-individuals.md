@@ -2,7 +2,7 @@
 
 *By Marcus Applebee*
 
-Date: [Insert Date]
+
 
 Location: [Insert Location]
 

@@ -1,6 +1,6 @@
 # How Ants Communicate: Unlocking the Secrets of Ant Conversations
 
-*By Marcus Applebee | Date*
+
 
 Ants, those tiny creatures that seem to be constantly on the move, have long fascinated scientists with their complex social behavior and highly efficient colonies. One intriguing aspect of their society is their ability to communicate with each other. So, how do ants convey information and coordinate their actions? Let's delve into the fascinating world of ant communication.
 

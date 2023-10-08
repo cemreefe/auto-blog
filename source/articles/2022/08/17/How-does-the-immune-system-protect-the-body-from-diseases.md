@@ -2,7 +2,7 @@
 
 *Marcus Applebee*
 
-*Published on [Current Date]*
+
 
 **[City Name]** - The human immune system is a complex network of cells, tissues, and organs that work together to protect the body from harmful pathogens, such as bacteria, viruses, and parasites. Understanding how the immune system functions is crucial for maintaining good health and preventing diseases. Let's dive into the fascinating world of immunity and explore how our bodies defend against these invaders.
 

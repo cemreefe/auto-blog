@@ -2,7 +2,7 @@
 
 ![Social media and mental health](https://cdn.pixabay.com/photo/2016/03/27/19/33/social-media-1287895_1280.png)
 
-*Marcus Applebee* | *Date*
+
 
 Social media has undeniably become an integral part of our lives. It allows us to connect with friends and family, share our experiences, and stay informed about the world. However, there is growing concern about the impact of social media on our mental health. In this article, we aim to explore and understand how social media affects our mental well-being.
 

@@ -2,7 +2,7 @@
 
 *By Marcus Applebee*
 
-*Date: [Current Date]*
+
 
 ![work-life-balance](image-link)
 

@@ -1,6 +1,6 @@
 # Why Do Dreams Sometimes Feel So Real?
 
-*By Marcus Applebee | Date | Location*
+
 
 Have you ever woken up from a dream feeling like the experience was so vivid and lifelike that it almost felt real? We've all experienced this phenomenon at some point in our lives, but have you ever wondered why dreams sometimes feel so real? In this article, we delve into the fascinating world of dreams and explore the scientific reasons behind their vividness.
 

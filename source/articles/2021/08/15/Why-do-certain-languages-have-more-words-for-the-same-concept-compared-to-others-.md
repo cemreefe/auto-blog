@@ -2,7 +2,7 @@
 
 *By Marcus Applebee, Language Correspondent*
 
-**[Location], [Date]** - Have you ever wondered why some languages have an abundance of words that express the same concept, while others seem to make do with just one or two? This interesting phenomenon can be attributed to a combination of factors, including linguistic history, cultural context, and the structure of language itself.
+Have you ever wondered why some languages have an abundance of words that express the same concept, while others seem to make do with just one or two? This interesting phenomenon can be attributed to a combination of factors, including linguistic history, cultural context, and the structure of language itself.
 
 Languages vary greatly in their vocabulary size, with some languages having thousands of words to express a particular concept, while others use just a handful. To understand why this happens, we must first delve into the fascinating world of linguistics.
 
