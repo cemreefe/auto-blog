@@ -2,8 +2,6 @@
 
 *Written by Marcus Applebee - May 17, 2023*
 
-![Underwater](https://images.unsplash.com/photo-1432139509613-5c4255815697?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dW5kZXJ3YXRlciUyMGJyZWF0aGluZyUyMGNpdHl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=60)
-
 Have you ever dreamed of exploring the depths of the ocean and swimming with marine life? The idea of breathing underwater may have crossed your mind, sparking an imagination of a life filled with aquatic adventures. While humans are not naturally equipped to breathe underwater, modern technology has introduced various methods to make this seemingly impossible task a reality. Join us today as we dive into the fascinating realm of breathing underwater and discover the secrets behind this awe-inspiring phenomenon.
 
 ## **Understanding the Science Behind Breathing Underwater**

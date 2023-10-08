@@ -2,8 +2,6 @@
 
 *by Marcus Applebee - September 15, 2022*
 
-![problem solver](image-link)
-
 Are you looking to sharpen your problem-solving skills and become more effective at finding innovative solutions? Problem-solving is a critical skillset that is highly valued in almost every profession and aspect of life. Fortunately, becoming a better problem solver is not an innate talent, but a skill that can be developed over time. In this article, we will explore several strategies to enhance your problem-solving abilities and help you approach challenges with confidence and creativity.
 
 ## **1. Understand the Problem**

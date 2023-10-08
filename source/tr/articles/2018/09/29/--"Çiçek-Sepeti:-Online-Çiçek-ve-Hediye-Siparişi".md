@@ -1,7 +1,5 @@
 # Çiçek Sepeti: Online Çiçek ve Hediye Siparişi
 
-![](https://cdn.pixabay.com/photo/2016/02/19/11/30/roses-1200049_960_720.jpg)
-
 Çiçek Sepeti, Türkiye'deki birinci sınıf online çiçek ve hediye siparişi hizmeti sunan bir platformdur. Bu hizmet, müşterilere en taze çiçekleri ve en zarif hediyeleri kolayca sipariş etme imkanı sunarak, insanların sevdiklerine olan sevgi ve takdirlerini ifade etmelerine yardımcı olur.
 
 ## Online Sipariş Alma İmkânı

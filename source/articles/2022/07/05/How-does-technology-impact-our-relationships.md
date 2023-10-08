@@ -2,8 +2,6 @@
 
 *by Marcus Applebee - November 25, 2021*
 
-![technology-relationships](image-url)
-
 In today's digital age, technology has become an integral part of our lives, shaping how we communicate, connect, and maintain relationships. The impact of technology on our relationships is a topic of increasing relevance and concern. As we immerse ourselves in an ever-evolving tech-driven world, it is crucial to explore the various ways in which technology influences our connections with others.
 
 ## The Evolution of Communication

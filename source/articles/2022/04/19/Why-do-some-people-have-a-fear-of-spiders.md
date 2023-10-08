@@ -2,8 +2,6 @@
 
 *By Marcus Applebee / September 15, 2022*
 
-![Spider](image-link) 
-
 Do you have a fear of spiders? If so, you're not alone. Arachnophobia, or the fear of spiders, is one of the most common phobias in the world. But have you ever wondered why some people are terrified of these eight-legged creatures? In this article, we will explore the possible reasons behind the fear of spiders and shed light on this intriguing topic.
 
 ## Evolutionary Response

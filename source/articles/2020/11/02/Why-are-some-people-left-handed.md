@@ -1,7 +1,5 @@
 # The Science Behind Left-Handedness: Unveiling the Mystery
 
-![Left-Handedness](https://images.unsplash.com/photo-1541963463530-7ac55fbb607f)
-
 *Image Source: Unsplash*
 
 

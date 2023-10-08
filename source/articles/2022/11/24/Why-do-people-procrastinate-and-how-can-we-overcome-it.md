@@ -4,8 +4,6 @@
 
 *DATE - LOCATION*
 
-![Procrastination](procrastination.jpg)
-
 Procrastination is a common phenomenon that many people struggle with, often resulting in missed deadlines, increased stress levels, and decreased productivity. But why do we procrastinate, and more importantly, how can we overcome this habit? In this article, we will delve into the causes of procrastination and provide practical strategies to help individuals overcome it.
 
 ## **Understanding Procrastination: The Causes**

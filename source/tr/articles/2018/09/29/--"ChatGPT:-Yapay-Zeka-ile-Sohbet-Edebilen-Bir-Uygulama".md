@@ -1,7 +1,5 @@
 # ChatGPT: Yapay Zeka ile Sohbet Edebilen Bir Uygulama
 
-![ChatGPT](https://example.com/chatgpt.jpg)
-
 Yapay Zeka (YZ) teknolojileri sürekli olarak gelişiyor ve hayatımızın birçok alanında kullanılıyor. İnsanları birbirine bağlamak, iletişimi kolaylaştırmak ve bilgiye erişimi artırmak için YZ ile sohbet edebilen uygulamalar geliştirilmektedir. Bu trende öncülük edenlerden biri de "ChatGPT" adlı uygulamadır.
 
 ## ChatGPT Nedir?

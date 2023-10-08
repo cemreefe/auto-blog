@@ -1,7 +1,5 @@
 # AFAD: Acil Durum Yönetimi ve Arama Kurtarma Faaliyetleri
 
-![AFAD](https://www.afad.gov.tr/images/afad_resmi_website_favicon.png)
-
 Afetler, doğal veya insan kaynaklı sebeplerle meydana gelen olaylar olarak tanımlanır ve hayatımızı ciddi şekilde etkileyebilir. Bu nedenle, her ülkenin afetlere karşı önlem alması ve afet durumlarında etkin bir şekilde müdahale etmesi önemlidir. Türkiye'de ise bu konuda önemli bir kurum olan Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) görev yapmaktadır.
 
 ## AFAD Nedir?

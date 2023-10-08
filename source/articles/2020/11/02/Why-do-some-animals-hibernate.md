@@ -3,8 +3,6 @@
 *By Marcus Applebee*  
 
 
-![Hibernating Bear](image_url)
-
 *Image: A bear in hibernation*
 
 As the colder months approach, many animals prepare for a long period of sleep and slowdown known as hibernation. This fascinating phenomenon has intrigued scientists and nature enthusiasts for centuries. Today, we will delve into the reasons why some animals choose to hibernate and how they survive during this dormant phase.

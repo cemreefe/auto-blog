@@ -4,8 +4,6 @@
 
 
 
-![work-life-balance](image-link)
-
 In today's fast-paced and competitive world, it can be easy to get caught up in the demands of work and neglect other aspects of our lives. However, maintaining a healthy work-life balance is crucial for our overall well-being and can have a significant impact on our physical, mental, and emotional health.
 
 **1. Enhances Overall Well-being**

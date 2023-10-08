@@ -4,8 +4,6 @@
 
 *July 22, 2022*
 
-![alien communication](https://images.unsplash.com/photo-1581202592521-3976aa3f0db9)
-
 The idea of communicating with intelligent beings from other planets has been a topic of fascination for centuries. While we have yet to establish contact with extraterrestrial life, scientists and astronomers have been actively searching for ways to communicate with aliens. In this article, we will explore some of the most promising methods that have been proposed.
 
 ## Establishing a Common Language

@@ -4,8 +4,6 @@
 
 *By Marcus Applebee | October 18, 2022*
 
-![Upside Down Tree](https://images.unsplash.com/photo-1490144111948-e9328329411a)
-
 In the world of plants, some species have captivated scientists and nature enthusiasts alike with their peculiar growth patterns. One such phenomenon that has piqued curiosity is the uncommon occurrence of trees growing upside down. Yes, you read that correctly. Some trees have developed the remarkable ability to defy gravity and display vertical roots that stretch towards the sky. But how and why does this happen?
 
 To understand why these trees grow in such an unusual manner, we must first delve into the science behind their unique adaptation. This extraordinary growth pattern is known as "epiphytism," and it is a specialized form of plant survival and adaptation strategy.

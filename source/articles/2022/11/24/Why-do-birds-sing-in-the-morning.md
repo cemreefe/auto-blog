@@ -3,8 +3,6 @@
 *By Marcus Applebee*
 
 
-![Bird Singing in the Morning](https://images.unsplash.com/photo-1558465680-2cee7ee6eebb)
-
 *Image Source: Unsplash*
 
 Every morning, as the sun begins to rise and paint the sky with vibrant colors, a delightful symphony fills the air. It is the beautiful melody of birds singing, creating a captivating soundtrack to the start of each day. Have you ever wondered why birds choose to sing specifically in the morning? In this article, we will explore the fascinating reasons behind this behavior.

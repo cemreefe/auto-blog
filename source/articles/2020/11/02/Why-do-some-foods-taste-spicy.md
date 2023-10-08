@@ -4,8 +4,6 @@
 
 *By Marcus Applebee | September 15, 2023*
 
-![spicy foods](https://images.unsplash.com/photo-1579684458946-2cbbe91915fa)
-
 Have you ever wondered why some foods ignite a fiery sensation on your taste buds? That zing you experience is commonly associated with spiciness. From hot chili peppers to Sichuan cuisine, the world is replete with an array of delightfully piquant dishes. In this article, we will unravel the mysteries behind this intriguing phenomenon and shed light on the science behind why some foods taste spicy.
 
 ## Capsaicin: The Culprit Behind Spiciness

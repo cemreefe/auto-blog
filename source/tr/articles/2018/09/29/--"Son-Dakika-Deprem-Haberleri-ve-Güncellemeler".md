@@ -1,7 +1,5 @@
 # Son Dakika Deprem Haberleri ve Güncellemeler
 
-![deprem](https://example.com/deprem-haberleri.jpg)
-
 Günümüzde depremler, dünyanın farklı bölgelerinde sıklıkla yaşanan ve büyük bir etkiye sahip doğal olaylardır. Depremler, hem can ve mal kayıplarına neden olabilen hem de toplumların günlük yaşamını derinden etkileyen tehlikeli olaylardır. Bu nedenle, deprem haberleri ve güncellemeleri, halkın doğru bilgilendirilmesi ve gerekli önlemlerin alınması açısından son derece önemlidir.
 
 ## Deprem Nedir?
