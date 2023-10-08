@@ -3,9 +3,6 @@
 *By Marcus Applebee*
 
 
-
-Location: [Insert Location]
-
 Allergy is a common health issue that affects millions of people around the world. Many individuals experience adverse reactions to certain foods, and understanding why some foods trigger allergies is crucial for managing and preventing these reactions. In this article, we will explore the reasons behind food allergies and the factors that contribute to them.
 
 ## **What is a food allergy?**

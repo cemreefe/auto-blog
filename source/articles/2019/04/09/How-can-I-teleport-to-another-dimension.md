@@ -4,7 +4,7 @@
 
 
 
-**[Have you ever wondered what it would be like to travel to another dimension? To explore new realms, encounter different species, and experience the unimaginable? The concept of interdimensional travel has long fascinated scientists, writers, and enthusiasts alike. In this article, we will dive into the theoretical possibilities and explore the current understanding of teleportation to another dimension.
+Have you ever wondered what it would be like to travel to another dimension? To explore new realms, encounter different species, and experience the unimaginable? The concept of interdimensional travel has long fascinated scientists, writers, and enthusiasts alike. In this article, we will dive into the theoretical possibilities and explore the current understanding of teleportation to another dimension.
 
 ## Understanding Dimensions
 

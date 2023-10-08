@@ -1,8 +1,5 @@
 # **Unlocking the Secrets of Time Travel: A Journey into Possibility**
 
-
-Location: [Insert Location]
-
 *By: Marcus Applebee*
 
 Time travel has been a fascinating concept for centuries, a subject both scientists and dreamers alike have pondered upon. The idea of being able to travel through time, experiencing moments of the past, present, and future, has captivated the human imagination. But is time travel really possible? And if so, how can one embark on such a mind-bending adventure? In this article, we will dive into the realm of time travel, exploring the theories and possibilities that surround it.

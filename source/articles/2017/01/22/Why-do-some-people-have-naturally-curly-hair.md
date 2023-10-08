@@ -2,7 +2,7 @@
 
 *By Marcus Applebee, Content Creator*
 
-[City], [State] - Have you ever wondered why some people have naturally curly hair? It's a unique and beautiful hair texture that has captivated people throughout history. In this article, we will explore the science behind curly hair and understand why it occurs in certain individuals.
+Have you ever wondered why some people have naturally curly hair? It's a unique and beautiful hair texture that has captivated people throughout history. In this article, we will explore the science behind curly hair and understand why it occurs in certain individuals.
 
 ## The Basics: Hair Structure and Texture
 

@@ -1,11 +1,5 @@
 # The Science Behind Left-Handedness: Unveiling the Mystery
 
-*Image Source: Unsplash*
-
-
-
-[Location]
-
 **By Marcus Applebee**
 
 Have you ever wondered why some people are left-handed while most of us are right-handed? Left-handedness has been a topic of fascination for centuries, and yet, the exact reasons behind this unique trait remain shrouded in mystery. Today, we delve deep into the science behind left-handedness to unravel this long-standing enigma.

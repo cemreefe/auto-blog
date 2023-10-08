@@ -1,8 +1,6 @@
 # **Tips to Improve Memory Retention: Boosting Your Cognitive Abilities**
 
-*by Marcus Applebee*
-
-[date], [location] - Memory is a crucial aspect of our daily lives, helping us store and retrieve information. Whether you are a student, a professional, or simply seeking to enhance your cognitive abilities, improving memory retention can provide significant benefits. In this article, we will explore various strategies and methods to boost your memory retention effectively.
+Memory is a crucial aspect of our daily lives, helping us store and retrieve information. Whether you are a student, a professional, or simply seeking to enhance your cognitive abilities, improving memory retention can provide significant benefits. In this article, we will explore various strategies and methods to boost your memory retention effectively.
 
 ## 1. **Exercise Regularly**
 

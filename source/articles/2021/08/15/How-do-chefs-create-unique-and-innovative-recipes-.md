@@ -1,12 +1,5 @@
 # Breaking the Recipe: Unraveling the Secrets Behind Unique and Innovative Dishes
 
-*By Marcus Applebee*
-
-
-
-Location: [Insert Location]
-
-
 When it comes to culinary creativity, chefs possess an uncanny ability to weave together flavors, textures, and techniques to create one-of-a-kind dishes that tantalize the taste buds and leave diners in awe. But have you ever wondered how these culinary geniuses craft their unique and innovative recipes? Today, we delve into the minds and kitchens of these master chefs to uncover their secrets.
 
 ## The Foundation: Knowledge and Experience
